@@ -1,5 +1,5 @@
 {
-    "name": "laravel/cashier-authorize",
+    "name": "laravel/cashier-authorizenetpaisa",
     "description": "Laravel Cashier-Authorize provides an expressive, fluent interface to Authorize.net's subscription billing services.",
     "keywords": ["laravel", "stripe", "billing"],
     "license": "MIT",
