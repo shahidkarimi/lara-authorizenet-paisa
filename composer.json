@@ -1,7 +1,7 @@
 {
-    "name": "laravel/cashier-authorizenetpaisa",
+    "name": "paisawala/cashier-authorizenetpaisa",
     "description": "Laravel Cashier-Authorize provides an expressive, fluent interface to Authorize.net's subscription billing services.",
-    "keywords": ["laravel", "stripe", "billing"],
+    "keywords": ["laravel", "stripe", "billing","authorize.net","payment module"],
     "license": "MIT",
     "authors": [
         {
